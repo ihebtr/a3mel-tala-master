@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1586502-aa31-4b2c-9dad-5cb87b0e3e18" name="Default Changelist" comment="" />
+    <list default="true" id="e1586502-aa31-4b2c-9dad-5cb87b0e3e18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +126,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1pDDWxzD9rSVgRIQfVZgFmSz4P4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -132,8 +135,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/a3mel-tala-master" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/a3mel-tala-master/a3mel-tala-master" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -147,6 +151,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Ih3b\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e1586502-aa31-4b2c-9dad-5cb87b0e3e18" name="Default Changelist" comment="" />
@@ -172,14 +179,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="578" y="292" key="#Composer/0.0.1536.824@0.0.1536.824" timestamp="1614710029897" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1614709588464">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1614783238713">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614709588464" />
-    <state x="625" y="310" key="Github.ShareDialog" timestamp="1614782319362">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614783238713" />
+    <state x="625" y="310" key="Github.ShareDialog" timestamp="1614783219209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="625" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1614782319362" />
+    <state x="625" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1614783219209" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1614709758780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -228,6 +235,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1614709758776" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1614783732050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614783732050" />
     <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1614709730821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -236,5 +247,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1614710477525" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614783573460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614783573460" />
+    <state x="547" y="98" width="447" height="627" key="svn.repositoryBrowser" timestamp="1614783194762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="98" width="447" height="627" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1614783194762" />
   </component>
 </project>
